@@ -70,8 +70,9 @@ Non-trainable params: 0
 _________________________________________________________________
 ```
 
-## Reference
+## References
 Tensorflow: [Simple Audio Recognition](https://www.tensorflow.org/tutorials/audio/simple_audio)
 
+Datasets:
 - Kaggle: [Indonesian Words Audio Dataset](https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset)
 - Kaggle: [UrbanSound8K](https://www.kaggle.com/datasets/chrisfilo/urbansound8k?select=fold10)
