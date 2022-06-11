@@ -71,7 +71,6 @@ _________________________________________________________________
 ```
 
 ## Reference
-TensorFlow : https://www.tensorflow.org/tutorials/audio/simple_audio
+[Tensorflow Simple Audio Recognition](https://www.tensorflow.org/tutorials/audio/simple_audio)\
 
-Dataset: 
-- https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset
+[Kaggle: Indonesian Words Audio Dataset](https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset)
