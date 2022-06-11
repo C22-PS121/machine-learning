@@ -7,19 +7,19 @@ TBD
 ## Comparing Model
 We tried some hyperparameters in creating the model. These are some of the result.
  
-*📌 45 Epochs Attempt*
+*__________ 45 Epochs Attempt*
 
 ![Bad Acc Graph](https://github.com/C22-PS121/machine-learning/blob/main/saved-graph/Bad%20Acc%20Graph.png) ![Good Acc Graph](https://github.com/C22-PS121/machine-learning/blob/main/saved-graph/Bad%20Loss%20Graph.png)
 
 Notice that the line is indicating overfitting. So that we adjust the hyperparameters and reduce the epochs.
 
-*📌 35 Epochs Attempt*
+*__________ 35 Epochs Attempt*
 
 ![35 Epoch Accuracy Graph](https://github.com/C22-PS121/machine-learning/blob/main/saved-graph/35epochs%20Acc%20Graph.png) ![35 Epoch Loss Graph](https://github.com/C22-PS121/machine-learning/blob/main/saved-graph/35epochs%20Loss%20Graph.png)
       
 If we take look closely, the loss and accuracy is still not as smooth as we expected. The graphs starting to split up as the epoch getting bigger. So, we try to re-adjust the hyperparameters at the model and reduce the epochs.
 
-*📌 20 Epochs Attempt*
+*__________ 20 Epochs Attempt*
 
 ![Better Accuracy Graph](https://github.com/C22-PS121/machine-learning/blob/main/saved-graph/Better%20Acc%20Graph.png) ![Better Loss Graph](https://github.com/C22-PS121/machine-learning/blob/main/saved-graph/Better%20Loss%20Graph.png)
 
@@ -73,4 +73,5 @@ _________________________________________________________________
 ## Reference
 TensorFlow : https://www.tensorflow.org/tutorials/audio/simple_audio
 
-📌You can access our dataset here : https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset
+Dataset: 
+- https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset
