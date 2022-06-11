@@ -9,4 +9,4 @@ TBD
 ## Reference
 https://www.tensorflow.org/tutorials/audio/simple_audio
 
-📌You can access our dataset here : TBD
+📌You can access our dataset here : https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset
