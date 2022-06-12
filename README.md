@@ -17,7 +17,12 @@ We gather our data from 70 peoples saying:
 - Kecelakaan
 - Kebakaran
 
-## Comparing Model
+After that, we augment our data by overlaying using Traffic Ambience and Rain Ambience. You can access our augmented dataset here: [Indonesian Words Audio Dataset](https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset)
+
+
+This audio data will be used to detect the event. We also retrieve random audio set from [UrbanSound8K](https://www.kaggle.com/datasets/chrisfilo/urbansound8k?select=fold10).
+
+## Creating Model
 We tried some hyperparameters in creating the model. These are some of the result.
  
 *__________ 45 Epochs Attempt*
@@ -85,7 +90,3 @@ _________________________________________________________________
 
 ## References
 Tensorflow: [Simple Audio Recognition](https://www.tensorflow.org/tutorials/audio/simple_audio)
-
-Datasets:
-- Kaggle: [Indonesian Words Audio Dataset](https://www.kaggle.com/datasets/ahmadulfi/indonesian-words-audio-dataset)
-- Kaggle: [UrbanSound8K](https://www.kaggle.com/datasets/chrisfilo/urbansound8k?select=fold10)
