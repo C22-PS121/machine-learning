@@ -1,8 +1,21 @@
 # Machine Learning Path Repository
-TBD
 
-## Executive Summary
-TBD
+This repository used for audio preprocessing and creating model for DANTION. We use android-based audio detection. At the end of the model, we will transform the model to tflite
+
+## Workflow
+
+Data Collecting ➡️ Audio Preprocessing ➡️ Creating Model ➡️ Convert to TF-Lite ➡️ Deploy to Android
+
+## Data Collecting
+
+We gather our data from 70 peoples saying:
+- Begal
+- Maling
+- Rampok
+- Pencuri
+- Tabrakan
+- Kecelakaan
+- Kebakaran
 
 ## Comparing Model
 We tried some hyperparameters in creating the model. These are some of the result.
